@@ -28,6 +28,13 @@ wisely. Furthermore, I think burning even a small fraction of it would be an inc
 The files in this Github repo, will contain notes about Cardano in general, the DRep process,
 discussion on upcoming governance questions and a record of my previous voting.
 
+My DRep Id is:
+```
+drep1c604nf9akj2u2gqsqq8vqhw7jz6j0usvrr4ny68weqm95h8v2vk (CIP 105)
+drep1ytrf7kdyhk6ft3fqzqqqaszam6gt2fljpsvwkvngamyrvks6faung (CIP 129)
+```
+and you can find me [on CardanoScan](https://cardanoscan.io/drep/drep1ytrf7kdyhk6ft3fqzqqqaszam6gt2fljpsvwkvngamyrvks6faung).
+
 I am on [twitter/X](https://x.com/erikdrep).
 
 All commits to this repo will be GPG signed by me.
