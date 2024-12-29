@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": false,
+    "givenName": {
+      "@value": "erikdrep"
+    },
+    "motivations": {
+      "@value": "I have been a part of the Cardano ecosystem since late 2017 and would like to be a part of its continued development."
+    },
+    "objectives": {
+      "@value": "I am interested in keeping race, gender, sexuality and things unrelated to the running of the Cardano network out of the Cardano governance process."
+    },
+    "paymentAddress": {
+      "@value": "addr1qy9mw8slm7qjcesjjdlpq0t59xggys3h0rguqu0cpw34u8l02h0qf0l6eux42g0f5s6gcqzhu906yf4flets68kme6cqvt6w4j"
+    },
+    "qualifications": {
+      "@value": "I have worked as an engineer for IOHK/IOG since February 2018."
+    },
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Twitter/X account"
+        },
+        "uri": {
+          "@value": "https://x.com/erikdrep"
+        }
+      },
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Github account"
+        },
+        "uri": {
+          "@value": "https://github.com/erikd/"
+        }
+      }
+
+
+    ]
+  }
+}
