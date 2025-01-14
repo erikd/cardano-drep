@@ -20,7 +20,8 @@ As a Cardano DRep, I am interested in keeping race, gender, sexuality and things
 running of the Cardano network out of the Cardano governance process. In the Open Source world, I
 have seen issues unrelated to the Open Source projects have huge adverse impacts on a
 [project](https://www.youtube.com/watch?v=fhttDZ99aiA) numerous times. I would like to avoid things
-like this happening in the Cardano Governance system.
+like this happening in the Cardano Governance system. I have registered as a DRep indepentently
+and not as a representative of my employer IOG.
 
 First and foremost I am interested in spending the ADA in the treasury system slowly, carefully and
 wisely. Furthermore, I think burning even a small fraction of it would be an incredibly bad idea.
