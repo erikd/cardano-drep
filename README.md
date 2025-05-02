@@ -27,7 +27,8 @@ First and foremost I am interested in spending the ADA in the treasury system sl
 wisely. Furthermore, I think burning even a small fraction of it would be an incredibly bad idea.
 
 The files in this Github repo, will contain notes about Cardano in general, the DRep process,
-discussion on upcoming governance questions and a record of my previous voting.
+discussion on upcoming governance questions. A record of my previous voting
+[is on CardanoScan](https://cardanoscan.io/drep/drep1ytrf7kdyhk6ft3fqzqqqaszam6gt2fljpsvwkvngamyrvks6faung).
 
 My DRep Id is:
 ```
